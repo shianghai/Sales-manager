@@ -1,4 +1,4 @@
-# BottomNavigation
-This project helps in understanding how to save the Fragment state by using the Bottom Navigation View
+# Sales-manager
+A simple application to help shop attendants keep track of products. both sales and inventory.
 
-Using this concept we can avoid the recreation of fragments when the user switches between different fragments using the Bottom Navigation View
+
